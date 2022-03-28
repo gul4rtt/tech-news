@@ -1,6 +1,6 @@
 # Web Scraping BBC NEWS
 
-Esse script raspa os dados das páginas de notícias tech do BBC News e lista tanto os títulos das matérias quanto as descrições.
+Esse script raspa os dados da aba de notícias tech do BBC News e lista os títulos das matérias e suas descrições.
 
 Histórico de atualizações: 22/03 - Criação do Script
 
